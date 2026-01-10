@@ -1,0 +1,32 @@
+[
+  {
+    "school": "pku",
+    "subject": "physics",
+    "type": "物院论坛",
+    "title": "物理学院学术论坛（第六十九讲） 核天体物理前沿介绍和锦屏深地核天体物理实验进展",
+    "speaker": "柳卫平 （中国科学院院士 中国原子能科学研究院研究员 南方科技大学讲席教授）",
+    "time": "2026年1月15日（星期四）15:00—16:30",
+    "location": "物理学院西202报告厅",
+    "link": "https://www.phy.pku.edu.cn/info/1668/13812.htm"
+  },
+  {
+    "school": "pku",
+    "subject": "physics",
+    "type": "学术报告-理论物理",
+    "title": "Quantum Scattering Amplitudes from the Attoscopic to the Ronnascopic",
+    "speaker": "Prof. David Kosower (Institute of Theoretical Physics, Saclay)",
+    "time": "2026年1月14日（星期三）16:00—17:30",
+    "location": "物理西楼3层思源报告厅",
+    "link": "https://www.phy.pku.edu.cn/info/1334/13802.htm"
+  },
+  {
+    "school": "pku",
+    "subject": "physics",
+    "type": "学术报告-光学",
+    "title": "等离激元纳腔中的非线性光学现象",
+    "speaker": "雷党愿 教授，香港城市大学",
+    "time": "2026年1月13日  (星期二) 上午10:00",
+    "location": "物理学院西464会议室",
+    "link": "https://www.phy.pku.edu.cn/info/1344/13822.htm"
+  }
+]
